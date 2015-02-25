@@ -3,7 +3,7 @@ package s3poller
 import (
 	"github.com/crowdmob/goamz/aws"
 	"github.com/crowdmob/goamz/s3"
-	"paradox/log"
+	"github.com/frontierpsycho/paradoxutil/log"
 	"time"
 )
 
